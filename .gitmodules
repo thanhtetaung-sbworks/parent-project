@@ -1,0 +1,4 @@
+[submodule "sub-lib"]
+	path = sub-lib
+	url = ../sub-lib
+	branch = develop
